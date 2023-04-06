@@ -77,7 +77,7 @@
 			],
 			"settings": {
 				"foreground": "#5c6370",
-				"fontStyle": "Fira Code"
+				"fontStyle": "none"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			}
 		},
 		{
-			"name": "Keyword", // class extends with get set
+			"name": "Keyword", // class extends with get set enum
 			"scope": [
 				"keyword",
 				"keyword.operator.logical",
@@ -256,7 +256,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "Fira Code",
+				"fontStyle": "none",
 				"foreground": "#d19a66"
 			}
 		},
@@ -485,7 +485,7 @@
 			"name": "Markup: Emphasis",
 			"scope": "markup.italic, markup.italic.markdown",
 			"settings": {
-				"fontStyle": "Fira Code"
+				"fontStyle": "none"
 			}
 		},
 		{
