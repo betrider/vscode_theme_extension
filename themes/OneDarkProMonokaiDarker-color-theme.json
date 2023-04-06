@@ -195,6 +195,13 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
+				"foreground": "#56b6c2"
+			}
+		},
+		{
+			"name": "Storage type annotation",
+			"scope": "storage.type.annotation",
+			"settings": {
 				"foreground": "#FF7F00"
 			}
 		},
