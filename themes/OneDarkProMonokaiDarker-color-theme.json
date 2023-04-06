@@ -150,7 +150,7 @@
 			}
 		},
 		{
-			"name": "Language Variable",
+			"name": "Language Variable", // this,super
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#FF3399"
@@ -167,7 +167,7 @@
 			}
 		},
 		{
-			"name": "Keyword",
+			"name": "Keyword", // class extends with get set
 			"scope": [
 				"keyword",
 				"keyword.operator.logical",
@@ -178,17 +178,17 @@
 			}
 		},
 		{
-			"name": "Keyword Operator",
+			"name": "Keyword Operator", // = ? {} ()
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#FF3399"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
-			"name": "Storage",
+			"name": "Storage", // late final const
 			"scope": "storage",
 			"settings": {
-				"foreground": "#FF3399"
+				"foreground": "#06A66C"
 			}
 		},
 		{
