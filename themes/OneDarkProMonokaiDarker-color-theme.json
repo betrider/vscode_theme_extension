@@ -30,9 +30,9 @@
 		"editorIndentGuide.background": "#3b4048",
 		"editorLineNumber.foreground": "#495162",
 		"editorRuler.foreground": "#484848",
-		"editorError.foreground": "#704040",
-		"editorWarning.foreground": "#407040",
-		"editorInfo.foreground": "#707040",
+		"editorError.foreground": "#f44747", // 콘솔 오류
+		"editorWarning.foreground": "#e5c07b", // 콘솔 경고
+		"editorInfo.foreground": "#528bff", // 콘솔 정보
 		"editorSuggestWidget.background": "#181a1f",
 		"editorSuggestWidget.border": "#181a1f",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
